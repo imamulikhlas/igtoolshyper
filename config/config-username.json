@@ -1,0 +1,29 @@
+{
+  "license_key" : "rdhoni",
+	"username" : "",
+	"password" : "",
+	"proxy" : "3",
+	"speed_value" : "400000",
+	"targets" : "andyrakaa, munggaran6, dhannsskuy, prabowomondardo, aryafebriannnn, srasyau1, alwiassegaf03, diat_zon, auwgenta_, feezaraizer, liefelixx, andibesset, anggayunandareal16, raooyz, muhraynaldiii, raihandaff, attahalilintar, riaricis1795, persijajkt, dewipersiknew, awkarin, raffinagita1717, ferdinan_sule, najwashihab, dennycagur, indrowarkop_asli, agnezmo, hotmanparisofficial, realmobilelegendsid, telkomsel, motogp, pupgmobile, pubg",
+	"fresh_stories_range" : 12,
+	"is_poll_vote_active" : true,
+	"is_slider_points_active" : true,
+	"is_questions_answers_active" : true,
+	"is_quiz_answers_active" : true,
+	"is_mass_story_vivew_active": false,
+	"questions_answers" : [
+		"PM!",
+		"Like",
+		"Fft",
+		"Like & follow",
+		"Follow",
+		"Please follow me"
+	],
+	"slider_points_range" : [
+		75,
+		100
+	]
+
+
+
+}
